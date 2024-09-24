@@ -134,3 +134,6 @@ loaded_model = pickle.load(open('Model_Daegu_Apartment_XGB.sav', 'rb'))
 ```
 
 ---
+
+## 👩‍💻 About the Author
+This project was crafted with care by [Namira R.D]. 🌈
